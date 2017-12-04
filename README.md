@@ -12,11 +12,11 @@ A React Native wrapper that provides access to the state of the proximity sensor
 
 - Install the library 
 ```shell
-npm install --save react-native-proximity
+npm install --save @hyl2015/react-native-proximity
 ```
 - Link the library 
 ```shell
-react-native link react-native-proximity
+react-native link @hyl2015/react-native-proximity
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ react-native link react-native-proximity
 Import the library
 
 ```javascript
-import Proximity from 'react-native-proximity';
+import Proximity from '@hyl2015/react-native-proximity';
 ```
 
 ### addListener(callback)
