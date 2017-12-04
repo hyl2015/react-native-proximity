@@ -1,11 +1,16 @@
 {
   "name": "@hyl2015/react-native-proximity",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Detect proximity on iOS and Android",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+   "android",
+   "RNProximity",
+   "index.js"
+ ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hyl2015/react-native-proximity.git"
